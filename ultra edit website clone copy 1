@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>yash jain website</title>
+</head>
+<style>
+  header {
+    position: sticky;
+    top: 0;
+  }
+
+  nav {
+    background-color: rgb(246, 246, 246);
+    height: 83px;
+    margin-top: 0%;
+
+  }
+
+  body {
+    margin: 0;
+  }
+
+  .container {
+    background-color: rgb(93, 162, 223);
+    margin: 12px 34px;
+    padding: 55px 23px;
+    text-align: center;
+  }
+
+  .box1 {
+    background-color: palevioletred;
+    height: 70vh;
+    width: 45%;
+    display: inline-block;
+    margin: 0 12px;
+  }
+
+  .box2 {
+    background-color: rgb(109, 106, 211);
+    height: 70vh;
+    width: 45%;
+    display: inline-block;
+    margin: 0 12px;
+  }
+
+  .textbox {
+    height: 100px;
+    padding: 34px;
+    background-color: black;
+    color: azure;
+    text-align: center;
+    width: 100%: margin: 50px 34vw;
+    font-size: 2em;
+    border-radius: 13px;
+
+    overflow: scroll;
+
+
+
+  }
+
+  .orangebox {
+    height: 50px;
+    width: 50px;
+    background: orange;
+    position: fixed;
+    bottom: 12px;
+    right: 23px;
+    border-radius: 60px;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Open Sans, Arial, sans-serif;
+  }
+
+  .right ul {
+    display: flex;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-shadow: 40px;
+
+  }
+
+  .right ul li {
+    list-style: none;
+    padding: 25px;
+    display: flex;
+    font-size: 25px;
+  }
+
+
+  .logo img {
+    margin: 10px;
+    height: 40px;
+  }
+
+  a {
+    text-decoration: none;
+    color: rgb(14, 14, 14);
+  }
+</style>
+
+<body>
+  <header>
+    <div>
+      <nav class="right">
+        <div class="logo">
+          <img src="https://www.ultraedit.com/wp-content/uploads/2023/01/Dark-logo.png" alt="">
+        </div>
+        <div>
+          <ul>
+            <li><span><a href="">products</a></span><svg width="35" height="24" viewBox="0 0 24 24" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9"
+                  stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+            </li>
+            <li><span><a href="">pricing</a> </span><svg width="35" height="24" viewBox="0 0 24 24" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9"
+                  stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+            </li>
+            <li><span><a href="">resources</a></span><svg width="35" height="24" viewBox="0 0 24 24" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9"
+                  stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+            </li>
+            <li><span><a href="">about us</a></span> <svg width="35" height="24" viewBox="0 0 24 24" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9"
+                  stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+            </li>
+
+          </ul>
+        </div>
+
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="container">
+      <div class="box1"></div>
+      <div class="box2"></div>
+    </div>
+    <div class="textbox">
+      hey this is yash jain Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio error laudantium amet
+      reiciendis reprehenderit. Aperiam laboriosam nobis excepturi doloribus, sapiente id, dignissimos, laudantium eum
+      natus aliquid pariatur magnam velit dolor accusamus consequuntur molestias enim tempore quisquam obcaecati impedit
+      vel esse. Cum quo voluptas dolorem voluptate repellendus porro sed doloribus vel harum maiores voluptatum nisi
+      doloremque, veniam recusandae earum debitis? Laboriosam vel reprehenderit explicabo nesciunt voluptatibus tempore
+      fugiat earum veniam, a error doloremque corrupti accusantium dolorum nemo sed soluta doloribus illo magni dolorem
+      cum quod, quia tenetur? Nihil, dolor labore quos totam delectus natus molestiae illo odit sed quaerat magnam vel!
+    </div>
+    <div class="orangebox">
+
+    </div>
+  </main>
+  <footer>
+
+  </footer>
+
+</body>
+
+</html>
